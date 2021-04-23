@@ -1,0 +1,2 @@
+# djangotuts
+Django tutorials template
